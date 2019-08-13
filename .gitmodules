@@ -1,0 +1,3 @@
+[submodule "radio/tweet.sh"]
+	path = radio/tweet.sh
+	url = https://github.com/piroor/tweet.sh.git
